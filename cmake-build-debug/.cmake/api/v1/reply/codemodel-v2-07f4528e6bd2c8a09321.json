@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Konstantin/CLionProjects/kr2/cmake-build-debug",
-		"source" : "C:/Users/Konstantin/CLionProjects/kr2"
+		"build" : "C:/Users/rtmus/CLionProjects/kr2/cmake-build-debug",
+		"source" : "C:/Users/rtmus/CLionProjects/kr2"
 	},
 	"version" : 
 	{
