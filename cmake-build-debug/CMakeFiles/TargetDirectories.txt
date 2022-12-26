@@ -1,0 +1,3 @@
+C:/Users/Konstantin/CLionProjects/kr2/cmake-build-debug/CMakeFiles/kr2.dir
+C:/Users/Konstantin/CLionProjects/kr2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Konstantin/CLionProjects/kr2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
