@@ -214,5 +214,15 @@ void process(List *list) {
 #include <stdio.h>
 #include <stdlib.h>
 // #inlcude "list.h"
-
-void process(List *)
+void process(List *list) {
+    Node *ptr = list->head;
+    while(ptr!=NULL){
+        if (prt->data<0){
+            Node *mod =(Node*)malloc(sizeof(Node));
+            mod ->data = -prt->data;
+            mod ->next = prt->next;
+            ptr ->next =mod;
+        }
+        ptr = prt ->next;
+    }
+}
